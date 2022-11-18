@@ -1,5 +1,5 @@
 # coding=utf-8
-from abc import ABC, abstractmethod
+from part1.practice.abstract_classes.app.abc import ABC, abstractmethod
 
 
 class Transport(ABC):
